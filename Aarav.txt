@@ -1,0 +1,56 @@
+<DOCTYPE html>
+<html>
+<head>
+<style>
+.navbar{
+background-color:yellow;
+height:40px;
+text-align:right;
+}
+h1{
+color:red;
+}
+.form{
+padding-top:20px;
+text-align:center;
+border:1px solid  black;
+margin-right:500px;
+margin-left:400px;
+margin-top:50px;
+background-color:skyblue;
+}
+body{
+background-image:url("nk.jpeg");
+}
+
+</style>
+<title>
+cutm
+</title>
+</head>
+<body>
+<center>
+<h1> शिवम कुमार </h1>
+</center>
+<div class="navbar">
+<a href="https://www.cutm.ac.in">Home</a>
+<a href="https://www.flipkart.com/">login</a>
+<a href=#">Registation</a>
+<a href=#">About</a>
+<a href=#">logout</a>
+</div>
+<div class="form">
+<form>
+Enter first Name:<input type="text"><br><br>
+Enter last :<input type="text"><br><br>
+Enter Father Name:<input type="text"><br><br>
+Enter mother Name:<input type="text"><br><br>
+Enter Dob:<input type="date"><br><br>
+Gender:
+Male:<input type="radio">
+female<input type="radio"><br><br>
+<input type="submit">
+</div>
+</form>
+</body>
+<html>
